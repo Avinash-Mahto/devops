@@ -31,7 +31,7 @@
 			<name>localhost.localdomain-releases</name>
 			<url>http://192.168.56.10:8081/artifactory/libs-release-local</url>
 		</repository>
-	</distributionManagement> -->
+	</distributionManagement> 
 
 	<scm>
 		<connection>scm:git:git@github.com:Avinash-Mahto/devops.git</connection>
